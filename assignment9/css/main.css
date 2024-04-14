@@ -1,0 +1,148 @@
+body {
+    margin: 0px;
+}
+
+.site-banner {
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+
+.logo {
+    width: 188px;
+}
+
+.article {
+    max-width: 1200px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0;
+    margin-bottom:0;
+    padding-left: 10px;
+    padding-right: 10px;
+     padding-top: 0;
+     padding-bottom: 0;
+
+}
+.story-header {
+    font-family: "Franklin Light", Arial, sans-serif;
+  }
+  .story-header h1 {
+    font-family: "Franklin Bold", Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 32px;
+  }
+  /* Story headline */
+.story-header h1 {
+    font-family: "Postoni", serif;
+    font-size: 46px;
+    margin-bottom: 0; /* Remove bottom margin */
+    font-weight: normal; /* Remove bolding */
+  }
+  
+  /* Story deck */
+  .story-deck {
+    font-size: 20px;
+  }
+  
+  /* Story byline */
+  .story-byline {
+    font-size: 16px;
+    margin-bottom: 2px;
+  }
+  
+  /* Publication timestamp */
+  .story-timestamp {
+    font-size: 14px;
+    color: #666666;
+    margin-top: 0; /* Remove top margin */
+  }
+  <div class="story-header">
+  <h1>Story Headline Here</h1>
+</div>
+
+<div class="story-deck">
+  <!-- Story deck content here -->
+</div>
+
+<div class="story-byline">
+  <!-- Story byline content here -->
+</div>
+
+<div class="story-timestamp">
+  <!-- Publication timestamp content here -->
+</div>
+
+.story-body {
+    font-family: "Georgia", serif;
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 700px;
+  }
+  
+  .story-body {
+    font-family: "Georgia", serif;
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 700px;
+  }
+  
+  .story-body img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .story-body {
+    font-family: "Georgia", serif;
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 700px;
+  }
+  
+  .story-body img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .story-body .caption {
+    font-family: "Franklin Light", sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    color: #666666;
+    margin-top: 0;
+  }
+
+  .story-footer {
+    max-width: 700px;
+    border-top: 1px solid black;
+  }
+  
+  .story-footer .more-for-you {
+    font-family: "Franklin Bold", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+  }
+  
+  .story-footer .headline {
+    font-family: "Postoni", serif;
+    font-size: 28px;
+    font-weight: normal;
+    margin-top: 8px;
+  }
+  
+  .story-footer .timestamp {
+    font-family: "Franklin Light", sans-serif;
+    font-size: 14px;
+    color: #666666;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e9e9e9;
+  }
+  
+  a:hover {
+    color: blue; /* Change hyperlink color on hover */
+    text-decoration-color: red; /* Change underline color on hover */
+  }
+  
